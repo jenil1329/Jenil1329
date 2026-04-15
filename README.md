@@ -1,6 +1,9 @@
 # Hi, I'm Jenil Jasani 👋
 
 🎓 M.S. Data Science @ Macquarie University  
+I build intelligent systems that bridge the gap between data and real-world impact from multi-agent AI frameworks and LLM-powered tools to real-time collaborative apps and computer vision pipelines.
+
+📍 Sydney NSW · 📫 jeniljasani1329@gmail.com · 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenil-jasani-7993241a8/)
 💡 Data Analyst | SQL | Power BI | Python  
 
 ---
@@ -61,7 +64,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=jenil1329&theme=dark)
 ---
 
-## 📫 Connect
+## 🤝 Let's Connect
 
-- LinkedIn
-- Email
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenil-jasani-7993241a8/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeniljasani1329@gmail.com)
