@@ -16,6 +16,8 @@
 
 **Languages**
 - Python, SQL, JavaScript
+- <img width="449" height="186" alt="image" src="https://github.com/user-attachments/assets/9abb4e51-1eda-46cc-b7d1-b474a1e0a495" />
+
 
 **Tools**
 - Power BI, Tableau, Excel
